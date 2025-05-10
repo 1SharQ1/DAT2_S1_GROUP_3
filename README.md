@@ -1,5 +1,6 @@
 # 📊 Power BI Sales Dashboard
 ![Dashboard Preview](./Screenshots/team_grad __page-0003.jpg)
+
 This project is a Power BI dashboard that analyzes a company's sales data to uncover insights and support data-driven decisions.
 
 ## 🔍 Key Features
